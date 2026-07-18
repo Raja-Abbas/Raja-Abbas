@@ -14,9 +14,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 AI Agent Builder
+### AI Agent Builder
 Visual AI agent builder with tool calling. Agents can search the web, execute code, query databases, and return results in real-time.
 - **Stack:** Next.js, TypeScript, OpenAI, SQLite
 - **Features:** Multi-agent system, tool calling, real-time execution, chat interface
@@ -24,7 +24,7 @@ Visual AI agent builder with tool calling. Agents can search the web, execute co
 
 ---
 
-### 🏢 Multi-Tenant SaaS Dashboard
+### Multi-Tenant SaaS Dashboard
 Full-featured SaaS template with authentication, multi-tenancy, billing, and analytics.
 - **Stack:** Next.js, TypeScript, Prisma, NextAuth, Tailwind CSS
 - **Features:** Auth, organizations, role-based access, analytics dashboard
@@ -32,7 +32,7 @@ Full-featured SaaS template with authentication, multi-tenancy, billing, and ana
 
 ---
 
-### 🧠 AI Knowledge Base
+### AI Knowledge Base
 RAG-powered knowledge base with document upload, semantic search, and AI chat.
 - **Stack:** Next.js, TypeScript, OpenAI Embeddings, Prisma
 - **Features:** Document upload, chunking, embedding, semantic search, AI chat
@@ -40,7 +40,7 @@ RAG-powered knowledge base with document upload, semantic search, and AI chat.
 
 ---
 
-### 🔀 Visual Chatbot Builder
+### Visual Chatbot Builder
 Drag-and-drop visual builder for creating AI chatbots and agent workflows.
 - **Stack:** Next.js, TypeScript, Custom SVG Canvas, OpenAI
 - **Features:** Visual node editor, tool calling, real-time preview, export
@@ -48,7 +48,7 @@ Drag-and-drop visual builder for creating AI chatbots and agent workflows.
 
 ---
 
-### 📊 Sales Pipeline CRM
+### Sales Pipeline CRM
 Kanban-style CRM with deal tracking, pipeline management, and analytics.
 - **Stack:** Next.js, TypeScript, @dnd-kit, Prisma, Recharts
 - **Features:** Drag-and-drop deals, pipeline stages, revenue analytics
@@ -56,7 +56,7 @@ Kanban-style CRM with deal tracking, pipeline management, and analytics.
 
 ---
 
-### ✍️ AI Content Workspace
+### AI Content Workspace
 Multi-provider AI content creation platform for writing, editing, and publishing.
 - **Stack:** Next.js, TypeScript, OpenAI, Gemini, Claude
 - **Features:** Multi-provider AI, content editor, templates, history
@@ -64,7 +64,7 @@ Multi-provider AI content creation platform for writing, editing, and publishing
 
 ---
 
-### 🛠️ Developer Toolkit
+### Developer Toolkit
 10 essential developer tools: static analyzer, performance estimator, AST explorer, refactoring engine, and more.
 - **Stack:** Next.js, TypeScript, AST Parser, Tailwind CSS
 - **Features:** Code analysis, performance metrics, refactoring, syntax highlighting
@@ -72,7 +72,7 @@ Multi-provider AI content creation platform for writing, editing, and publishing
 
 ---
 
-### 📈 Enterprise Analytics Dashboard
+### Enterprise Analytics Dashboard
 Enterprise-grade analytics with data tables, charts, filtering, and reporting.
 - **Stack:** Next.js, TypeScript, @tanstack/react-table, Recharts
 - **Features:** Data tables, advanced filtering, charts, export to CSV
@@ -80,7 +80,7 @@ Enterprise-grade analytics with data tables, charts, filtering, and reporting.
 
 ---
 
-### 🛒 Service Marketplace
+### Service Marketplace
 Two-sided marketplace for service providers and buyers with listings, bookings, and reviews.
 - **Stack:** Next.js, TypeScript, Prisma, SQLite
 - **Features:** Provider profiles, service listings, booking system, reviews
@@ -88,7 +88,7 @@ Two-sided marketplace for service providers and buyers with listings, bookings, 
 
 ---
 
-### 💰 Freelancer Finance Tracker
+### Freelancer Finance Tracker
 Simple finance tracker for freelancers — income, expenses, runway, and invoicing.
 - **Stack:** Next.js, TypeScript, Prisma, SQLite
 - **Features:** Income tracking, expense categories, runway calculator, invoicing
@@ -96,7 +96,7 @@ Simple finance tracker for freelancers — income, expenses, runway, and invoici
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -109,7 +109,7 @@ Simple finance tracker for freelancers — income, expenses, runway, and invoici
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 - **Upwork:** Full stack development contracts — SaaS, AI apps, Shopify, Figma to code
 - **Freelance:** Short-term projects, MVPs, prototypes
@@ -117,7 +117,7 @@ Simple finance tracker for freelancers — income, expenses, runway, and invoici
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - **GitHub:** [github.com/Raja-Abbas](https://github.com/Raja-Abbas)
 - **LinkedIn:** [linkedin.com/in/raja-abbas-affandi](https://www.linkedin.com/in/raja-abbas-affandi)
@@ -125,6 +125,6 @@ Simple finance tracker for freelancers — income, expenses, runway, and invoici
 
 ---
 
-## ⭐ Support
+## Support
 
 If any of these projects help you, give them a ⭐ on GitHub. It means a lot and helps others find them.
