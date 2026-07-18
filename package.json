@@ -1,0 +1,9 @@
+{
+  "name": "raja-abbas-github-profile",
+  "version": "1.0.0",
+  "description": "GitHub profile with custom markdown renderer",
+  "scripts": {
+    "render": "node render.js README.md docs/index.html",
+    "preview": "node render.js README.md docs/index.html && start docs/index.html"
+  }
+}
