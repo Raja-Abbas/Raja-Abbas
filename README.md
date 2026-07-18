@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/117307978?v=4" width="150">
 </p>
 
-<h1 align="center">Hey, I'm Raja Abbas Affandi 👋</h1>
+<h1 align="center">Hey, I'm Raja Abbas Affandi</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> | Building SaaS & AI Apps
