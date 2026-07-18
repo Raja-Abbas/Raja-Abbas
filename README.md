@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/117307978?v=4" width="150">
 </p>
 
-<h1 align="center">Hey, I'm Raja Abbas Affandi 👋</h1>
+<h1 align="center">Hey, I'm Raja Abbas Affandi</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> | <strong>React</strong> & <strong>Next.js</strong> Expert | Building <strong>SaaS</strong> & <strong>AI Apps</strong>
@@ -35,7 +35,7 @@ Visual AI agent builder with tool calling. Create agents, attach tools, and watc
 
 ---
 
-### 🏢 Multi-Tenant SaaS Dashboard (SaaStack)
+### Multi-Tenant SaaS Dashboard (SaaStack)
 Full-featured SaaS template with authentication, multi-tenancy, team management, subscriptions, and analytics dashboard. Role-based access control and organization management.
 - **Stack:** Next.js 16, TypeScript, Prisma 7, NextAuth v5, Tailwind CSS
 - **Keywords:** SaaS template, multi-tenant, authentication, billing, admin dashboard
@@ -43,7 +43,7 @@ Full-featured SaaS template with authentication, multi-tenancy, team management,
 
 ---
 
-### 🧠 AI Knowledge Base (KnowBase AI)
+### AI Knowledge Base (KnowBase AI)
 RAG-powered knowledge base with document upload, semantic search, and AI chat. Enterprise-grade knowledge management with AI-powered search.
 - **Stack:** Next.js 16, TypeScript, Prisma 7, OpenAI Embeddings, RAG
 - **Keywords:** RAG, knowledge base, semantic search, AI chat, document processing
@@ -51,7 +51,7 @@ RAG-powered knowledge base with document upload, semantic search, and AI chat. E
 
 ---
 
-### 🔀 Visual Chatbot Builder (AgentFlow)
+### Visual Chatbot Builder (AgentFlow)
 Drag-and-drop visual builder for creating AI chatbots and agent workflows. Custom SVG canvas with real-time preview and export.
 - **Stack:** Next.js 16, TypeScript, Custom SVG Canvas, OpenAI
 - **Keywords:** chatbot builder, visual workflow, no-code, AI chatbot, drag-and-drop
@@ -59,7 +59,7 @@ Drag-and-drop visual builder for creating AI chatbots and agent workflows. Custo
 
 ---
 
-### 📊 Sales Pipeline CRM (Pipeline CRM)
+### Sales Pipeline CRM (Pipeline CRM)
 Kanban-style CRM with deal tracking, pipeline management, and revenue analytics. Drag-and-drop interface with real-time analytics.
 - **Stack:** Next.js 16, TypeScript, @dnd-kit, Prisma 7, Recharts
 - **Keywords:** CRM, sales pipeline, Kanban, deal tracking, revenue analytics
@@ -67,7 +67,7 @@ Kanban-style CRM with deal tracking, pipeline management, and revenue analytics.
 
 ---
 
-### ✍️ AI Content Workspace (ContentForge AI)
+### AI Content Workspace (ContentForge AI)
 Multi-provider AI content creation platform supporting OpenAI, Gemini, and Claude. Content editor with templates and history management.
 - **Stack:** Next.js 16, TypeScript, OpenAI, Gemini, Claude
 - **Keywords:** AI content, multi-provider, content creation, writing tool, AI workspace
@@ -75,7 +75,7 @@ Multi-provider AI content creation platform supporting OpenAI, Gemini, and Claud
 
 ---
 
-### 🛠️ Developer Toolkit (JSCodeCraft)
+### Developer Toolkit (JSCodeCraft)
 10 essential developer tools: static analyzer, performance estimator, AST explorer, refactoring engine, and more. Productivity suite for developers.
 - **Stack:** Next.js 16, TypeScript, AST Parser, Tailwind CSS
 - **Keywords:** developer tools, code analysis, AST explorer, performance metrics
@@ -83,7 +83,7 @@ Multi-provider AI content creation platform supporting OpenAI, Gemini, and Claud
 
 ---
 
-### 📈 Enterprise Analytics Dashboard (Prism Dash)
+### Enterprise Analytics Dashboard (Prism Dash)
 Enterprise-grade analytics with data tables, charts, filtering, and reporting. Advanced filtering, sorting, pagination, and CSV export.
 - **Stack:** Next.js 16, TypeScript, @tanstack/react-table, Recharts
 - **Keywords:** analytics dashboard, data tables, charts, reporting, enterprise
@@ -91,7 +91,7 @@ Enterprise-grade analytics with data tables, charts, filtering, and reporting. A
 
 ---
 
-### 🛒 Service Marketplace (ServeMarket)
+### Service Marketplace (ServeMarket)
 Two-sided marketplace for service providers and buyers. Provider profiles, service listings, booking system, and review management.
 - **Stack:** Next.js 16, TypeScript, Prisma 7, SQLite
 - **Keywords:** marketplace, two-sided platform, booking system, service providers
@@ -99,7 +99,7 @@ Two-sided marketplace for service providers and buyers. Provider profiles, servi
 
 ---
 
-### 💰 Freelancer Finance Tracker (FreelanceFlow)
+### Freelancer Finance Tracker (FreelanceFlow)
 Simple finance tracker for freelancers — income tracking, expense categories, runway calculator, and invoicing.
 - **Stack:** Next.js 16, TypeScript, Prisma 7, SQLite
 - **Keywords:** freelancer tools, finance tracker, income tracking, invoicing
@@ -107,7 +107,7 @@ Simple finance tracker for freelancers — income tracking, expense categories, 
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 | Category | Technologies |
 |----------|-------------|
@@ -122,7 +122,7 @@ Simple finance tracker for freelancers — income tracking, expense categories, 
 
 ---
 
-## 💼 Services I Offer
+## Services I Offer
 
 - **SaaS Development** — Complete multi-tenant applications with auth, billing, analytics
 - **AI Integration** — OpenAI, Gemini, Claude APIs with tool calling and RAG
@@ -137,7 +137,7 @@ Simple finance tracker for freelancers — income tracking, expense categories, 
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 - **Upwork:** Full stack development contracts — SaaS, AI apps, Shopify, Figma to code
 - **Freelance:** Short-term projects, MVPs, prototypes
@@ -146,7 +146,7 @@ Simple finance tracker for freelancers — income tracking, expense categories, 
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - **GitHub:** [github.com/Raja-Abbas](https://github.com/Raja-Abbas)
 - **LinkedIn:** [linkedin.com/in/raja-abbas-affandi](https://www.linkedin.com/in/raja-abbas-affandi)
@@ -154,6 +154,6 @@ Simple finance tracker for freelancers — income tracking, expense categories, 
 
 ---
 
-## ⭐ Support
+## Support
 
-If any of these projects help you, give them a ⭐ on GitHub. It means a lot and helps others find them.
+If any of these projects help you, give them a star on GitHub. It means a lot and helps others find them.
